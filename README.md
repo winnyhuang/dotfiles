@@ -4,7 +4,7 @@
 #### [Tomorrow Night](https://github.com/chriskempson/tomorrow-theme/blob/master/OS%20X%20Terminal/Tomorrow%20Night.terminal) colour scheme is very highly reccomended 
 
 ### To install: 
-`cd ~ && git clone git://github.com/kmx411/dotfiles.git && cd dotfiles && ./install`
+`cd ~ && git clone git://github.com/RomainButteaud/dotfiles.git && cd dotfiles && ./install`
 
 If you don't yet have Vundle, it is required
 `git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle`
@@ -14,30 +14,31 @@ Use Vundle to install plugins
 
 
 ### Bash Shortcuts
-    l       : ls -al
+    l        : ls -al
 
-    gs      : git status
-    ga      : git add
-    gp      : git push
-    gl      : git pull
-    gc      : git commit -m
-    gca     : git commit -a -m
-    glog    : a colourful git log
+    gs       : git status
+    ga       : git add
+    gp       : git push
+    gl       : git pull
+    gc       : git commit -m
+    gca      : git commit -a -m
+    glog     : a colourful git log
 
-    sa      : svn add
-    ss      : svn status
-    sr      : svn remove
-    sd      : svn delete but keep local version
-    sc      : svn commit -m
-    sup     : svn update
-    sbranch : svn info
+    sa       : svn add
+    ss       : svn status
+    sr       : svn remove
+    sd       : svn delete but keep local version
+    sc       : svn commit -m
+    sup      : svn update
+    sbranch  : svn info
 
-    please  : sudo
+    please   : sudo
+    justdoit : sudo
 
-    ..      : cd ..
-    ...     : cd ../..
-    ....    : cd ../../..
-    .....   : cd ../../../..
+    ..       : cd ..
+    ...      : cd ../..
+    ....     : cd ../../..
+    .....    : cd ../../../..
 
 ### Vim Bindings
     jj             : esc

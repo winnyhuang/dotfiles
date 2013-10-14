@@ -1,6 +1,7 @@
 #Standard shortcuts
 #---------------------------
 alias l='ls -al' 
+alias o='open .'
 
 #GIT
 #---------------------------
@@ -38,7 +39,6 @@ alias justdoit="sudo"
 #Romain
 #--------------------------
 alias gi='cd ~/Dropbox/UTC/GI04'
-alias o='open .'
 
 #Path
 #-------------------------------
