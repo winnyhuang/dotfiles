@@ -33,6 +33,12 @@ alias .....='cd ../../../..'
 #FUN
 #--------------------------
 alias please="sudo"
+alias justdoit="sudo"
+
+#Romain
+#--------------------------
+alias gi='cd ~/Dropbox/UTC/GI04'
+alias o='open .'
 
 #Path
 #-------------------------------
