@@ -44,3 +44,4 @@ export PS1="\n$C_DARKGRAY[$C_RED\$(rbenv version-name)$C_DARKGRAY] \$(vcprompt -
 #export PS1="\n$C_PURPLE\u$C_DARKGRAY @ $C_BLUE\h $C_DARKGRAY: $C_LIGHTYELLOW\w\n$C_DARKGRAY\$$C_DEFAULT "
 
 export CLICOLOR=1
+export PATH=/usr/local/bin:/Users/Romain/.rbenv/shims:/Users/Romain/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/texbin

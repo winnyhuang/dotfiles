@@ -2,7 +2,9 @@
 #---------------------------
 alias l='ls -al' 
 alias o='open .'
-alias s='/bin/subl .'
+alias s='/bin/subl'
+alias d='cd ~/Desktop'
+alias ~='cd ~'
 
 #GIT
 #---------------------------
