@@ -49,3 +49,5 @@ alias proxy_off='export http_proxy="" && export https_proxy=""'
 #-------------------------------
 #PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
 export PATH=$HOME/local/bin:$PATH
+### Added by the Heroku Toolbelt
+export PATH="/usr/local/heroku/bin:$PATH"
