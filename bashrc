@@ -4,7 +4,6 @@ alias l='ls -al'
 alias o='open .'
 alias s='/bin/subl'
 alias d='cd ~/Desktop'
-alias ~='cd ~'
 
 #GIT
 #---------------------------
@@ -41,7 +40,7 @@ alias justdoit="sudo"
 
 #Romain
 #--------------------------
-alias gi='cd ~/Dropbox/UTC/GI04'
+alias gi='cd ~/Dropbox/UTC/GI05'
 alias proxy_on='export http_proxy=http://proxyweb.utc.fr:3128 && export https_proxy=http://proxyweb.utc.fr:3128'
 alias proxy_off='export http_proxy="" && export https_proxy=""'
 
