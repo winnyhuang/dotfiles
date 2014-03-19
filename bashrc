@@ -14,6 +14,8 @@ alias gl='git pull'
 alias gc='git commit -m'
 alias gca='git commit -a -m'
 alias glog="git log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+alias gdiff='git diff'
+alias deploy='git push origin master && git push heroku master'
 
 #SVN
 #---------------------------
